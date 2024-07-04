@@ -5,7 +5,6 @@
 - :telescope: Em buscas de experiência e conhecimentos na área!
 
 -
--
 -   Welcome! 👋
 - 👀 My name is Gabriel, I'm 25 years old, and I live in Belo Horizonte - MG, Brazil.
 - 🌱 I'm a student at SENAI - MG, studying Systems Development.
