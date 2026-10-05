@@ -35,15 +35,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-## 🚀 Projetos em destaque
-
-<p align="center">
-  <a href="https://github.com/Gbquintela/Atividade_CRUD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gbquintela&repo=Atividade_CRUD&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Gbquintela/to-do-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gbquintela&repo=to-do-list&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Gbquintela/Mini_Projeto_RPG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gbquintela&repo=Mini_Projeto_RPG&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Gbquintela/consulta-usuario"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Gbquintela&repo=consulta-usuario&theme=tokyonight&hide_border=true" /></a>
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -52,4 +43,13 @@
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Gbquintela&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🐍 Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gbquintela/Gbquintela/output/snake-dark.svg" />
+    <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/Gbquintela/Gbquintela/output/snake.svg" />
+  </picture>
 </p>
