@@ -63,6 +63,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gbquintela&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Gbquintela&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Gbquintela&theme=tokyonight&hide_border=true" />
 </p>
